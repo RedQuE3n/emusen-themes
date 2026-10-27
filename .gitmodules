@@ -1,0 +1,276 @@
+[submodule "upstream/adroit-es-de"]
+	path = upstream/adroit-es-de
+	url = https://github.com/RickAndTired/adroit-es-de.git
+	branch = main
+[submodule "upstream/alekfull-nx-es-de"]
+	path = upstream/alekfull-nx-es-de
+	url = https://github.com/anthonycaccese/alekfull-nx-es-de.git
+	branch = main
+[submodule "upstream/analogue-3d-menu-es-de"]
+	path = upstream/analogue-3d-menu-es-de
+	url = https://github.com/seanfletchr/analogue-3d-menu-es-de.git
+	branch = main
+[submodule "upstream/analogue-os-menu-es-de"]
+	path = upstream/analogue-os-menu-es-de
+	url = https://github.com/anthonycaccese/analogue-os-menu-es-de.git
+	branch = main
+[submodule "upstream/art-book-next-es-de"]
+	path = upstream/art-book-next-es-de
+	url = https://github.com/anthonycaccese/art-book-next-es-de.git
+	branch = main
+[submodule "upstream/artflix-revisited-es-de"]
+	path = upstream/artflix-revisited-es-de
+	url = https://github.com/TheGrizzMD/artflix-revisited-es-de.git
+	branch = main
+[submodule "upstream/atari-50-menu-es-de"]
+	path = upstream/atari-50-menu-es-de
+	url = https://github.com/anthonycaccese/atari-50-menu-es-de.git
+	branch = main
+[submodule "upstream/aura-es-de"]
+	path = upstream/aura-es-de
+	url = https://github.com/Siddy212/aura-es-de.git
+	branch = main
+[submodule "upstream/basic-es-de"]
+	path = upstream/basic-es-de
+	url = https://github.com/Weestuarty-es-de/basic-es-de.git
+	branch = main
+[submodule "upstream/canvas-es-de"]
+	path = upstream/canvas-es-de
+	url = https://github.com/Siddy212/canvas-es-de.git
+	branch = main
+[submodule "upstream/caralt-es-de"]
+	path = upstream/caralt-es-de
+	url = https://github.com/Weestuarty-es-de/caralt-es-de.git
+	branch = main
+[submodule "upstream/carbon-es-de"]
+	path = upstream/carbon-es-de
+	url = https://github.com/lilbud/carbon-es-de.git
+	branch = main
+[submodule "upstream/cathode-es-de"]
+	path = upstream/cathode-es-de
+	url = https://github.com/hplant6/cathode-es-de.git
+	branch = master
+[submodule "upstream/catppuccin-es-de"]
+	path = upstream/catppuccin-es-de
+	url = https://github.com/RobZombie9043/catppuccin-es-de.git
+	branch = main
+[submodule "upstream/chicuelo-revisited-es-de"]
+	path = upstream/chicuelo-revisited-es-de
+	url = https://github.com/anthonycaccese/chicuelo-revisited-es-de.git
+	branch = master
+[submodule "upstream/codywheel-es-de"]
+	path = upstream/codywheel-es-de
+	url = https://github.com/Weestuarty-es-de/codywheel-es-de.git
+	branch = main
+[submodule "upstream/coinops-es-de"]
+	path = upstream/coinops-es-de
+	url = https://github.com/TheGrizzMD/coinops-es-de.git
+	branch = master
+[submodule "upstream/colorful-pop-es-de"]
+	path = upstream/colorful-pop-es-de
+	url = https://github.com/RobZombie9043/colorful-pop-es-de.git
+	branch = main
+[submodule "upstream/colorful-revisited-es-de"]
+	path = upstream/colorful-revisited-es-de
+	url = https://github.com/anthonycaccese/colorful-revisited-es-de.git
+	branch = main
+[submodule "upstream/colorful-simplified-es-de"]
+	path = upstream/colorful-simplified-es-de
+	url = https://github.com/anthonycaccese/colorful-simplified-es-de.git
+	branch = main
+[submodule "upstream/compendium-es-de"]
+	path = upstream/compendium-es-de
+	url = https://github.com/RobZombie9043/compendium-es-de.git
+	branch = main
+[submodule "upstream/decaffe-es-de"]
+	path = upstream/decaffe-es-de
+	url = https://github.com/Weestuarty-es-de/decaffe-es-de.git
+	branch = main
+[submodule "upstream/diamond-es-de"]
+	path = upstream/diamond-es-de
+	url = https://github.com/Weestuarty-es-de/diamond-es-de.git
+	branch = main
+[submodule "upstream/ds-es-de"]
+	path = upstream/ds-es-de
+	url = https://github.com/Weestuarty-es-de/ds-es-de.git
+	branch = main
+[submodule "upstream/elegance-es-de"]
+	path = upstream/elegance-es-de
+	url = https://github.com/Weestuarty-es-de/elegance-es-de.git
+	branch = main
+[submodule "upstream/elementerial-es-de"]
+	path = upstream/elementerial-es-de
+	url = https://github.com/RobZombie9043/elementerial-es-de.git
+	branch = main
+[submodule "upstream/epic-noir-next-es-de"]
+	path = upstream/epic-noir-next-es-de
+	url = https://github.com/anthonycaccese/epic-noir-next-es-de.git
+	branch = main
+[submodule "upstream/epic-noir-revisited-es-de"]
+	path = upstream/epic-noir-revisited-es-de
+	url = https://github.com/anthonycaccese/epic-noir-revisited-es-de.git
+	branch = master
+[submodule "upstream/esboy-es-de"]
+	path = upstream/esboy-es-de
+	url = https://github.com/Weestuarty-es-de/esboy-es-de.git
+	branch = main
+[submodule "upstream/mini-es-de"]
+	path = upstream/mini-es-de
+	url = https://github.com/Weestuarty-es-de/mini-es-de.git
+	branch = main
+[submodule "upstream/es-dwee-es-de"]
+	path = upstream/es-dwee-es-de
+	url = https://github.com/Weestuarty-es-de/es-dwee-es-de.git
+	branch = main
+[submodule "upstream/escape-es-de"]
+	path = upstream/escape-es-de
+	url = https://github.com/RobZombie9043/escape-es-de.git
+	branch = main
+[submodule "upstream/forall-es-de"]
+	path = upstream/forall-es-de
+	url = https://github.com/Weestuarty-es-de/forall-es-de.git
+	branch = main
+[submodule "upstream/gameos-es-de"]
+	path = upstream/gameos-es-de
+	url = https://github.com/lilbud/gameos-es-de.git
+	branch = main
+[submodule "upstream/grimmlex-es-de"]
+	path = upstream/grimmlex-es-de
+	url = https://gitlab.com/thraeg-group/grimmlex-es-de.git
+	branch = main
+[submodule "upstream/homage-es-de"]
+	path = upstream/homage-es-de
+	url = https://github.com/Weestuarty-es-de/homage-es-de.git
+	branch = main
+[submodule "upstream/horizon-es-de"]
+	path = upstream/horizon-es-de
+	url = https://github.com/RobZombie9043/horizon-es-de.git
+	branch = main
+[submodule "upstream/iconic-es-de"]
+	path = upstream/iconic-es-de
+	url = https://github.com/Siddy212/iconic-es-de.git
+	branch = main
+[submodule "upstream/iisu-interpreted-es-de"]
+	path = upstream/iisu-interpreted-es-de
+	url = https://github.com/MrVictorFull57/iisu-interpreted-es-de.git
+	branch = main
+[submodule "upstream/immersive-revisited-es-de"]
+	path = upstream/immersive-revisited-es-de
+	url = https://github.com/anthonycaccese/immersive-revisited-es-de.git
+	branch = master
+[submodule "upstream/mania-menu-es-de"]
+	path = upstream/mania-menu-es-de
+	url = https://github.com/anthonycaccese/mania-menu-es-de.git
+	branch = main
+[submodule "upstream/meringue-es-de"]
+	path = upstream/meringue-es-de
+	url = https://github.com/kthod861/meringue-es-de.git
+	branch = main
+[submodule "upstream/minui-menu-es-de"]
+	path = upstream/minui-menu-es-de
+	url = https://github.com/anthonycaccese/minui-menu-es-de.git
+	branch = main
+[submodule "upstream/mister-menu-es-de"]
+	path = upstream/mister-menu-es-de
+	url = https://github.com/anthonycaccese/mister-menu-es-de.git
+	branch = main
+[submodule "upstream/notepad-pocket-es-de"]
+	path = upstream/notepad-pocket-es-de
+	url = https://github.com/anthonycaccese/notepad-pocket-es-de.git
+	branch = main
+[submodule "upstream/nso-menu-interpreted-es-de"]
+	path = upstream/nso-menu-interpreted-es-de
+	url = https://github.com/anthonycaccese/nso-menu-interpreted-es-de.git
+	branch = main
+[submodule "upstream/nxe-menu-es-de"]
+	path = upstream/nxe-menu-es-de
+	url = https://github.com/anthonycaccese/nxe-menu-es-de.git
+	branch = main
+[submodule "upstream/p-10-menu-es-de"]
+	path = upstream/p-10-menu-es-de
+	url = https://github.com/anthonycaccese/p-10-menu-es-de.git
+	branch = main
+[submodule "upstream/playstation-x-es-de"]
+	path = upstream/playstation-x-es-de
+	url = https://github.com/RobZombie9043/playstation-x-es-de.git
+	branch = main
+[submodule "upstream/ps5-menu-es-de"]
+	path = upstream/ps5-menu-es-de
+	url = https://github.com/InitialDin/ps5-menu-es-de.git
+	branch = main
+[submodule "upstream/psone-ish-es-de"]
+	path = upstream/psone-ish-es-de
+	url = https://github.com/ShaolinSnake96/psone-ish-es-de.git
+	branch = main
+[submodule "upstream/razor-es-de"]
+	path = upstream/razor-es-de
+	url = https://github.com/Weestuarty-es-de/razor-es-de.git
+	branch = main
+[submodule "upstream/retromega-revisited-es-de"]
+	path = upstream/retromega-revisited-es-de
+	url = https://github.com/anthonycaccese/retromega-revisited-es-de.git
+	branch = main
+[submodule "upstream/retrofix-revisited-es-de"]
+	path = upstream/retrofix-revisited-es-de
+	url = https://github.com/anthonycaccese/retrofix-revisited-es-de.git
+	branch = main
+[submodule "upstream/sagadiamond-es-de"]
+	path = upstream/sagadiamond-es-de
+	url = https://github.com/Jetup13/sagadiamond-es-de.git
+	branch = main
+[submodule "upstream/shinretro-revisited-es-de"]
+	path = upstream/shinretro-revisited-es-de
+	url = https://github.com/RobZombie9043/shinretro-revisited-es-de.git
+	branch = main
+[submodule "upstream/showcase-es-de"]
+	path = upstream/showcase-es-de
+	url = https://github.com/Weestuarty-es-de/showcase-es-de.git
+	branch = main
+[submodule "upstream/simcar-es-de"]
+	path = upstream/simcar-es-de
+	url = https://github.com/Weestuarty-es-de/simcar-es-de.git
+	branch = main
+[submodule "upstream/simplemenu-es-de"]
+	path = upstream/simplemenu-es-de
+	url = https://github.com/Rose22/simplemenu-es-de.git
+	branch = main
+[submodule "upstream/slick-es-de"]
+	path = upstream/slick-es-de
+	url = https://github.com/Weestuarty-es-de/slick-es-de.git
+	branch = main
+[submodule "upstream/smooth-es-de"]
+	path = upstream/smooth-es-de
+	url = https://github.com/Weestuarty-es-de/smooth-es-de.git
+	branch = main
+[submodule "upstream/superstation-one-menu-es-de"]
+	path = upstream/superstation-one-menu-es-de
+	url = https://github.com/anthonycaccese/superstation-one-menu-es-de.git
+	branch = main
+[submodule "upstream/tategriddy-es-de"]
+	path = upstream/tategriddy-es-de
+	url = https://github.com/Weestuarty-es-de/tategriddy-es-de.git
+	branch = main
+[submodule "upstream/techdweeb-es-de"]
+	path = upstream/techdweeb-es-de
+	url = https://github.com/anthonycaccese/techdweeb-es-de.git
+	branch = main
+[submodule "upstream/texgriddy-es-de"]
+	path = upstream/texgriddy-es-de
+	url = https://github.com/Weestuarty-es-de/texgriddy-es-de.git
+	branch = main
+[submodule "upstream/unreleased-es-de"]
+	path = upstream/unreleased-es-de
+	url = https://github.com/Weestuarty-es-de/unreleased-es-de.git
+	branch = main
+[submodule "upstream/x-grid-es-de"]
+	path = upstream/x-grid-es-de
+	url = https://github.com/ugurkinik/x-grid-es-de.git
+	branch = main
+[submodule "upstream/x20s-es-de"]
+	path = upstream/x20s-es-de
+	url = https://github.com/ShaolinSnake96/x20s-es-de.git
+	branch = main
+[submodule "upstream/xmb-menu-es-de"]
+	path = upstream/xmb-menu-es-de
+	url = https://github.com/anthonycaccese/xmb-menu-es-de.git
+	branch = main
